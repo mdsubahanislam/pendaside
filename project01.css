@@ -1,0 +1,98 @@
+body{
+    background-color:#E5E5E5;
+    font-family: 'Poppins';
+    margin: 0;
+    padding: 0;
+}
+.body-section{
+    background-color: rgba(255, 251, 240, 1);
+    margin-top: 49px;
+}
+.button-one{
+    text-decoration: none;
+    color: whitesmoke;
+    background-color: yellowgreen;
+    height: 60px;
+    width: 170px;
+    padding: 9px;
+    border-radius: 5%;
+}
+.button-one i{
+    margin-right: 2px;
+}
+.single-text{
+    padding-top:49px ;
+    padding-bottom: 21px;
+}
+.text h1,p{
+    margin: 0;
+}
+.img-bg-c{
+    background-color: whitesmoke;
+    border-radius: 5%;
+    margin-bottom: 5px;
+}
+.hover-effact img{
+    opacity:.5;
+}
+.lead{
+    font-size: 24px;
+    font-weight: 700;
+}
+.button-many{
+    text-decoration: none;
+    color: whitesmoke;
+    background-color: yellowgreen;
+    height: 42px;
+    width: 130px;
+    padding: 9px;
+    border-radius: 5%;
+}
+.single-img img{
+    width: 45%;
+}
+.shoping{
+    background-color: whitesmoke;
+}
+.img{
+    padding: 1px;
+}
+.footer{
+    background-color: black;
+    text-align: center;
+    padding: 44px 0;
+}
+.footer h1{
+    color: whitesmoke;
+    margin: 0;
+    font-size: 28px;
+}
+.footer p{
+    color: white;
+    margin: 0;
+    font-size: .7rem;
+}
+.icon{
+    color: white;
+}
+/* slider css */
+.slider{
+    position:relative;
+    }
+    .text-slider{
+     top: 380px;
+     z-index: 5;
+     position: absolute;
+    }
+    .text-slider h1,h6{
+        margin-left: 190px;
+    }
+    .slider-button button{
+        display: block;
+        margin-left: 600px;
+    }
+    .text h1{
+        font-size: 28px;
+        font-weight: 900;
+        color: black;
+    }
